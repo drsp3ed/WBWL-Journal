@@ -145,6 +145,7 @@ These are the main quests we must complete from each of the region
 These are important pieces of information about Zybilna the Archfey and the main quest that may help us build the puzzle ahead of time
 
 - Zybilna the Archfey was frozen in time (Source - Carousel in WL Carnival). The method is not currently undisclosed to us, but hopefully we can get some intel from Bavlorna.
+- When going through the portal, Mister Witch and Mister Light told me this phrase - "Remember the rule of three - Future, Present, Past. Find the alicorn and free the Dormant Queen at last!". Alicorn? What is that supposed to mean?
 
 
 # Other
