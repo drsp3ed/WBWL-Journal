@@ -1,6 +1,7 @@
 This will be the Journal that contains everything you know about certain characters, places, items, quests and events.
 # Characters
 (DM's note: I divided those into factions for you guys to easier find the ones you know :))
+(Warden Shou's note: wait, who is DM?!)
 
 One character I will include before all others, for he does not belong to any of the categories listed below.
 - **Madryck Roslof**
