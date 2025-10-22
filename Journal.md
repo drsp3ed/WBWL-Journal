@@ -60,7 +60,15 @@ One character I will include before all others, for he does not belong to any of
 	- Appearance: Beautiful huge panther-looking beast with 3 pairs of legs and a long tail. While on duty, wears a lot of garments and huge vibrant butterfly wings.
 	- History: His own cub, named Star, got missing many years ago, and no one knows what happened (similar to Hurly). Ulfugar (again) cared too much and started crying on the spot, swearing that we will find his cub. Dirlagraun then gave us the mirrored ball, saying it was Star's favorite toy. I wish Ulfugar could keep his mouth shut and not giving us more troubles. Well, what can you expect from a dwarf, right?
 
-## Hourglass Coven
+## Prismeer
+This is the collection of all characters from Prismeer, the Feywild Domain of Delight. One character does not fit under any category below, so she will be included here:
+- **Zybilna the Archfey**
+	- Description: The Archfey of Prismeer. Her warlocks and other entities she was in contact with describe her as the "Fairy Godmother to all Mortals". Current status is unknown, but the Carousel unicorns told us she is "Frozen in time", whatever that's supposed to mean.
+	- Character: Unknown. Others describe her as someone who knows no harm and is good & kind to everyone. Madryck said she is "brilliant, secretive and wise".
+	- Appearance: Tall human woman with long white hair and a tatoo shaped like chicken's foot under her right eye. (Source - Madryck Roslof)
+	- History: Mostly unknown. She rules Prismeer, as it is her domain, and she dwells in the "Palace of Heart's Desire". (Source - Madryck Roslof)
+
+### Hourglass Coven
 - **Bavlorna Blightstraw**
 	- Description: Hag of the "Hither" region, the first of 3 splinter-realms of Prismeer
 	- Character: Unknown
@@ -77,7 +85,7 @@ One character I will include before all others, for he does not belong to any of
 	- Appearance: Unknown
 	- History: One of the members of Hourglass Coven who overthrew Zybilna the Archfey (Source - Carousel in WL Carnival)
 
-## Hither
+### Hither
 - **Sir Talavar**
 	- Description: A knight of "Titania the Summer Queen"
 	- Character: A noble, kind creature. A man of honor.
@@ -149,6 +157,6 @@ These are important pieces of information about Zybilna the Archfey and the main
 
 
 # Other
-- **Last Edit Date - 21.10.2025**
+- **Last Edit Date - 22.10.2025**
 - **Region: Hither**
 - **Location: Brigand's Tollway (After defeating Agdon)**
